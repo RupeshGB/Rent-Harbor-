@@ -35,5 +35,6 @@ Whether you manage a single unit or a whole portfolio, Rent Harbor gives you the
 <img width="1679" alt="Screen Shot 2025-03-18 at 3 14 10 PM" src="https://github.com/user-attachments/assets/1ad85d29-ff51-4280-abfc-222869d12b3f" />
 <img width="1680" alt="Screen Shot 2025-03-18 at 3 14 42 PM" src="https://github.com/user-attachments/assets/589c83af-a9c6-4e7b-86be-77fd1c70f224" />
 
+<img width="1680" alt="Screen Shot 2025-03-18 at 3 14 35 PM" src="https://github.com/user-attachments/assets/786bf651-4896-498e-a993-5a1c2ca96185" />
 
 
