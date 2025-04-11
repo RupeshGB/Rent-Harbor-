@@ -1,6 +1,3 @@
-Awesome — thanks for the details! Here’s the updated **README description** with the corrected backend and database info, all nicely formatted and full of character:
-
----
 
 # 🏠 Rent Harbor
 
@@ -23,7 +20,6 @@ Awesome — thanks for the details! Here’s the updated **README description** 
 | 🌐 APIs        | Custom REST APIs + External Airbnb data API 🌍                                      |
 | 💾 Backend     | **Python**, **Java**, **Node.js** – handling data processing, API logic, and routing |
 | 🗃️ Data Layer  | **Airbnb Public API** – used to pull sample property and rental data               |
-| ☁️ Hosting     | (e.g., Vercel, Netlify – update if applicable)                                    |
 | 🛠️ Dev Tools   | VS Code, Git, GitHub, ESLint, Prettier                                              |
 
 ---
