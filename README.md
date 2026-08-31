@@ -1,7 +1,7 @@
 
 # 🏠 Rent Harbor
 
-**Rent Harbor** is your all-in-one  property management tool built for mom-and-pop landlords who want less stress and more clarity. Track rent payments , manage tenants 👥, and handle maintenance requests all from a clean, responsive dashboard designed with simplicity in mind.
+**Rent Harbor** is your all-in-one  property management tool built for mom-and-pop landlords who want less stress and more clarity. Track rent payments , manage tenants, and handle maintenance requests all from a clean, responsive dashboard designed with simplicity in mind.
 
  **Features**  
 - 📊 Intuitive dashboard with rental insights  
